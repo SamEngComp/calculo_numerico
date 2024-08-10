@@ -1,1 +1,1 @@
-web: gunicorn app.appCalcNum_teste:app
+web: gunicorn calculo_numerico.app.appCalcNum_teste:app
